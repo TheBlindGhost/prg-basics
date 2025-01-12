@@ -1,0 +1,9 @@
+{
+    "favorite_book": {
+        "name": "dune",
+        "main_character": "Paul",
+        "genera": "sci-fi",
+        "setting": "desert",
+        "valuable_resource": "spice"
+    }
+}
